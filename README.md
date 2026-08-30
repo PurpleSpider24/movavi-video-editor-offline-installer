@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Movavi Video Editor interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/VirtualDubMod.png/1280px-VirtualDubMod.png" />
+<img width="2880" height="1620" alt="Movavi Video Editor interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Premiere_Pro_screenshot.png/1280px-Premiere_Pro_screenshot.png" />
 </div>
 
 ---
